@@ -1,0 +1,59 @@
+Title,unique_community_count,main_community_ratio,community_entropy,BoxOffice
+Ant-Man,1.0,1.0,0.0,180202163.0
+Ant-Man and the Wasp,1.0,1.0,0.0,216648740.0
+Ant-Man and the Wasp: Quantumania,1.0,1.0,0.0,214504909.0
+Avengers: Age of Ultron,1.0,1.0,0.0,459005868.0
+Avengers: Endgame,2.0,0.8571428571428571,0.5916727785823275,858373000.0
+Avengers: Infinity War,2.0,0.875,0.5435644431995964,678815482.0
+Black Panther,2.0,0.5,1.0,700426566.0
+Black Panther: Wakanda Forever,2.0,0.6666666666666666,0.9182958340544896,453829060.0
+Black Widow,1.0,1.0,0.0,183651655.0
+Captain America: Civil War,2.0,0.8,0.7219280948873623,408084349.0
+Captain America: The First Avenger,2.0,0.6666666666666666,0.9182958340544896,176654505.0
+Captain America: The Winter Soldier,1.0,1.0,0.0,259766572.0
+Captain Marvel,1.0,1.0,0.0,426829839.0
+Deadpool,2.0,0.5,1.0,363070709.0
+Deadpool 2,2.0,0.75,0.8112781244591328,324591735.0
+Doctor Strange,1.0,1.0,0.0,232641920.0
+Doctor Strange in the Multiverse of Madness,2.0,0.5,1.0,411331607.0
+Elektra,1.0,1.0,0.0,24409722.0
+Eternals,1.0,1.0,0.0,164870234.0
+Fantastic Four,1.0,1.0,0.0,154696080.0
+Fantastic Four: Rise of the Silver Surfer,2.0,0.75,0.8112781244591328,131921738.0
+Ghost Rider,1.0,1.0,0.0,115802596.0
+Ghost Rider: Spirit of Vengeance,1.0,1.0,0.0,51774002.0
+Guardians of the Galaxy,1.0,1.0,0.0,333718600.0
+Guardians of the Galaxy Vol. 2,1.0,1.0,0.0,389813101.0
+Guardians of the Galaxy Vol. 3,1.0,1.0,0.0,358995815.0
+Iron Man,1.0,1.0,0.0,319034126.0
+Iron Man 2,1.0,1.0,0.0,312433331.0
+Iron Man 3,1.0,1.0,0.0,409013994.0
+Logan,1.0,1.0,0.0,226277068.0
+Shang-Chi and the Legend of the Ten Rings,1.0,1.0,0.0,224543292.0
+Spider-Man,1.0,1.0,0.0,407774549.0
+Spider-Man 2,1.0,1.0,0.0,374337514.0
+Spider-Man 3,1.0,1.0,0.0,337281992.0
+Spider-Man: Far from Home,2.0,0.5,1.0,391283774.0
+Spider-Man: Homecoming,2.0,0.5,1.0,334952829.0
+Spider-Man: No Way Home,1.0,1.0,0.0,814866759.0
+The Amazing Spider-Man,1.0,1.0,0.0,262782352.0
+The Amazing Spider-Man 2,1.0,1.0,0.0,203605622.0
+The Avengers,1.0,1.0,0.0,623357910.0
+The Incredible Hulk,1.0,1.0,0.0,134806913.0
+The Marvels,2.0,0.6666666666666666,0.9182958340544896,84500223.0
+The New Mutants,1.0,1.0,0.0,23852659.0
+The Wolverine,1.0,1.0,0.0,132556852.0
+Thor,1.0,1.0,0.0,181030624.0
+Thor: Love and Thunder,1.0,1.0,0.0,343256830.0
+Thor: Ragnarok,1.0,1.0,0.0,315058289.0
+Thor: The Dark World,1.0,1.0,0.0,206362140.0
+Venom,1.0,1.0,0.0,213515506.0
+Venom: Let There Be Carnage,1.0,1.0,0.0,213550366.0
+X-Men,1.0,1.0,0.0,157299718.0
+X-Men Origins: Wolverine,2.0,0.6666666666666666,0.9182958340544896,179883157.0
+X-Men: Apocalypse,1.0,1.0,0.0,155442489.0
+X-Men: Dark Phoenix,1.0,1.0,0.0,65845974.0
+X-Men: Days of Future Past,1.0,1.0,0.0,233921534.0
+X-Men: First Class,1.0,1.0,0.0,146408305.0
+X-Men: The Last Stand,1.0,1.0,0.0,234362462.0
+X2: X-Men United,1.0,1.0,0.0,214949694.0

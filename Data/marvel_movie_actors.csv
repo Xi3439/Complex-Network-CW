@@ -1,0 +1,61 @@
+Title,Year,BoxOffice,Director,Actors,IMDB_Rating
+Iron Man,2008,"$319,034,126",Jon Favreau,"Robert Downey Jr., Gwyneth Paltrow, Terrence Howard",7.9
+The Incredible Hulk,2008,"$134,806,913",Louis Leterrier,"Edward Norton, Liv Tyler, Tim Roth",6.6
+Iron Man 2,2010,"$312,433,331",Jon Favreau,"Robert Downey Jr., Mickey Rourke, Gwyneth Paltrow",6.9
+Thor,2011,"$181,030,624",Kenneth Branagh,"Chris Hemsworth, Anthony Hopkins, Natalie Portman",7.0
+Captain America: The First Avenger,2011,"$176,654,505",Joe Johnston,"Chris Evans, Hugo Weaving, Samuel L. Jackson",6.9
+The Avengers,2012,"$623,357,910",Joss Whedon,"Robert Downey Jr., Chris Evans, Scarlett Johansson",8.0
+Iron Man 3,2013,"$409,013,994",Shane Black,"Robert Downey Jr., Guy Pearce, Gwyneth Paltrow",7.1
+Thor: The Dark World,2013,"$206,362,140",Alan Taylor,"Chris Hemsworth, Natalie Portman, Tom Hiddleston",6.7
+Captain America: The Winter Soldier,2014,"$259,766,572","Anthony Russo, Joe Russo","Chris Evans, Samuel L. Jackson, Scarlett Johansson",7.7
+Guardians of the Galaxy,2014,"$333,718,600",James Gunn,"Chris Pratt, Vin Diesel, Bradley Cooper",8.0
+Avengers: Age of Ultron,2015,"$459,005,868",Joss Whedon,"Robert Downey Jr., Chris Evans, Mark Ruffalo",7.3
+Ant-Man,2015,"$180,202,163",Peyton Reed,"Paul Rudd, Michael Douglas, Corey Stoll",7.2
+Captain America: Civil War,2016,"$408,084,349","Anthony Russo, Joe Russo","Chris Evans, Robert Downey Jr., Scarlett Johansson",7.8
+Doctor Strange,2016,"$232,641,920",Scott Derrickson,"Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams",7.5
+Guardians of the Galaxy Vol. 2,2017,"$389,813,101",James Gunn,"Chris Pratt, Zoe Saldana, Dave Bautista",7.6
+Spider-Man: Homecoming,2017,"$334,952,829",Jon Watts,"Tom Holland, Michael Keaton, Robert Downey Jr.",7.4
+Thor: Ragnarok,2017,"$315,058,289",Taika Waititi,"Chris Hemsworth, Tom Hiddleston, Cate Blanchett",7.9
+Black Panther,2018,"$700,426,566",Ryan Coogler,"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o",7.3
+Avengers: Infinity War,2018,"$678,815,482","Anthony Russo, Joe Russo","Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",8.4
+Ant-Man and the Wasp,2018,"$216,648,740",Peyton Reed,"Paul Rudd, Evangeline Lilly, Michael Peña",7.0
+Captain Marvel,2019,"$426,829,839","Anna Boden, Ryan Fleck","Brie Larson, Samuel L. Jackson, Ben Mendelsohn",6.8
+Avengers: Endgame,2019,"$858,373,000","Anthony Russo, Joe Russo","Robert Downey Jr., Chris Evans, Mark Ruffalo",8.4
+Spider-Man: Far from Home,2019,"$391,283,774",Jon Watts,"Tom Holland, Samuel L. Jackson, Jake Gyllenhaal",7.4
+Black Widow,2021,"$183,651,655",Cate Shortland,"Scarlett Johansson, Florence Pugh, David Harbour",6.6
+Shang-Chi and the Legend of the Ten Rings,2021,"$224,543,292",Destin Daniel Cretton,"Simu Liu, Awkwafina, Tony Leung Chiu-wai",7.4
+Eternals,2021,"$164,870,234",Chloé Zhao,"Gemma Chan, Richard Madden, Angelina Jolie",6.3
+Spider-Man: No Way Home,2021,"$814,866,759",Jon Watts,"Tom Holland, Zendaya, Benedict Cumberbatch",8.2
+Doctor Strange in the Multiverse of Madness,2022,"$411,331,607",Sam Raimi,"Benedict Cumberbatch, Elizabeth Olsen, Chiwetel Ejiofor",6.9
+Thor: Love and Thunder,2022,"$343,256,830",Taika Waititi,"Chris Hemsworth, Natalie Portman, Christian Bale",6.2
+Black Panther: Wakanda Forever,2022,"$453,829,060",Ryan Coogler,"Letitia Wright, Lupita Nyong'o, Danai Gurira",6.7
+Ant-Man and the Wasp: Quantumania,2023,"$214,504,909",Peyton Reed,"Paul Rudd, Evangeline Lilly, Michael Douglas",6.0
+Guardians of the Galaxy Vol. 3,2023,"$358,995,815",James Gunn,"Chris Pratt, Chukwudi Iwuji, Bradley Cooper",7.9
+The Marvels,2023,"$84,500,223",Nia DaCosta,"Brie Larson, Teyonah Parris, Iman Vellani",5.5
+X-Men,2000,"$157,299,718",Bryan Singer,"Patrick Stewart, Hugh Jackman, Ian McKellen",7.3
+X2: X-Men United,2003,"$214,949,694",Bryan Singer,"Patrick Stewart, Hugh Jackman, Halle Berry",7.4
+X-Men: The Last Stand,2006,"$234,362,462",Brett Ratner,"Patrick Stewart, Hugh Jackman, Halle Berry",6.6
+X-Men Origins: Wolverine,2009,"$179,883,157",Gavin Hood,"Hugh Jackman, Liev Schreiber, Ryan Reynolds",6.5
+X-Men: First Class,2011,"$146,408,305",Matthew Vaughn,"James McAvoy, Michael Fassbender, Jennifer Lawrence",7.7
+The Wolverine,2013,"$132,556,852",James Mangold,"Hugh Jackman, Will Yun Lee, Tao Okamoto",6.7
+X-Men: Days of Future Past,2014,"$233,921,534",Bryan Singer,"Patrick Stewart, Ian McKellen, Hugh Jackman",7.9
+X-Men: Apocalypse,2016,"$155,442,489",Bryan Singer,"James McAvoy, Michael Fassbender, Jennifer Lawrence",6.8
+Logan,2017,"$226,277,068",James Mangold,"Hugh Jackman, Patrick Stewart, Dafne Keen",8.1
+X-Men: Dark Phoenix,2019,"$65,845,974",Simon Kinberg,"James McAvoy, Michael Fassbender, Jennifer Lawrence",5.7
+The New Mutants,2020,"$23,852,659",Josh Boone,"Maisie Williams, Anya Taylor-Joy, Charlie Heaton",5.3
+Deadpool,2016,"$363,070,709",Tim Miller,"Ryan Reynolds, Morena Baccarin, T.J. Miller",8.0
+Deadpool 2,2018,"$324,591,735",David Leitch,"Ryan Reynolds, Josh Brolin, Morena Baccarin",7.6
+Spider-Man,2002,"$407,774,549",Sam Raimi,"Tobey Maguire, Kirsten Dunst, Willem Dafoe",7.4
+Spider-Man 2,2004,"$374,337,514",Sam Raimi,"Tobey Maguire, Kirsten Dunst, Alfred Molina",7.5
+Spider-Man 3,2007,"$337,281,992",Sam Raimi,"Tobey Maguire, Kirsten Dunst, Topher Grace",6.3
+The Amazing Spider-Man,2012,"$262,782,352",Marc Webb,"Andrew Garfield, Emma Stone, Rhys Ifans",6.9
+The Amazing Spider-Man 2,2014,"$203,605,622",Marc Webb,"Andrew Garfield, Emma Stone, Jamie Foxx",6.6
+Fantastic Four,2005,"$154,696,080",Tim Story,"Ioan Gruffudd, Michael Chiklis, Chris Evans",5.7
+Fantastic Four: Rise of the Silver Surfer,2007,"$131,921,738",Tim Story,"Ioan Gruffudd, Jessica Alba, Chris Evans",5.6
+Fantastic Four (2015),2015,N/A,N/A,N/A,N/A
+Venom,2018,"$213,515,506",Ruben Fleischer,"Tom Hardy, Michelle Williams, Riz Ahmed",6.6
+Venom: Let There Be Carnage,2021,"$213,550,366",Andy Serkis,"Tom Hardy, Woody Harrelson, Michelle Williams",5.9
+Ghost Rider,2007,"$115,802,596",Mark Steven Johnson,"Nicolas Cage, Eva Mendes, Sam Elliott",5.3
+Ghost Rider: Spirit of Vengeance,2011,"$51,774,002","Mark Neveldine, Brian Taylor","Nicolas Cage, Ciarán Hinds, Idris Elba",4.3
+Daredevil,2015–2018,N/A,N/A,"Charlie Cox, Vincent D'Onofrio, Deborah Ann Woll",8.6
+Elektra,2005,"$24,409,722",Rob Bowman,"Jennifer Garner, Goran Visnjic, Will Yun Lee",4.7
